@@ -25,4 +25,4 @@ usermod -aG docker ubuntu
 cd ~
 mkdir confluance-docker
 cd confluance-docker
-bash /vagrant/docker_confluance.sh 
+sudo bash /vagrant/docker_confluance.sh 
